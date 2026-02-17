@@ -9,7 +9,7 @@
 ## 🎨 Installation
 
 ```bash
-ya pkg add marcosvnmelo/kanagawa-dragon
+ya pkg add AugustDG/onedark
 ```
 
 ## ⚙️ Usage
