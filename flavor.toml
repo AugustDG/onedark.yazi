@@ -22,14 +22,17 @@ hovered = { reversed = true }
 preview_hovered = { reversed = true }
 find_keyword = { fg = "#E06C75", bg = "#282C34" }
 find_position = {}
-tab_active = { reversed = true }
-tab_inactive = {}
-tab_width = 1
 count_copied = { fg = "#282C34", bg = "#98C379" }
 count_cut = { fg = "#282C34", bg = "#E06C75" }
 count_selected = { fg = "#282C34", bg = "#E5C07B" }
 border_symbol = "│"
 border_style = { fg = "#ABB2BF" }
+
+[tabs]
+active = { reversed = true }
+inactive = {}
+sep_inner = { open = "", close = "" }
+sep_outer = { open = "", close = "" }
 
 [mode]
 normal_main = { fg = "#282C34", bg = "#61AFEF" }
